@@ -1,0 +1,25 @@
+@import url("base.css");
+@import url("utilities.css");
+@import url("layout.css");
+@import url("components.css");
+@import url("animation.css");
+@import url("home.css");
+
+@import url("responsive.css");
+
+@font-face {
+  font-family: "Ginto";
+  src: url("/assets/fonts/ABCGintoNord-Black-Trial-BF651b7b7719b0f.otf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "gg";
+  src: url("../fonts/gg\ sans\ Bold.woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "gg1";
+  src: url("../fonts/gg\ sans\ Regular.woff");
+  font-weight: normal;
+}
